@@ -78,6 +78,7 @@ cd skills/register_ens
 ### Skills Overview
 
 - `skills/bankr_wallet/` - bounded wallet execution layer and public framing for Bankr-based onchain actions
+- `skills/ethskills/` - live Ethereum knowledge router that points the agent to current ETHSkills guides for protocol, wallets, L2s, standards, tools, security, testing, and shipping
 - `skills/register_ens/` - end-to-end ENS registration and configuration flows
 - `skills/swap_uniswap/` - guarded Uniswap swap and bridge execution
 - `skills/opensea_tools/` - NFT collection deployment support and OpenSea analytics or marketplace operations
