@@ -24,7 +24,7 @@ Most teams do not trust an agent with money, access, identity, or public-facing 
 
 ## Solution
 
-`cmai` is designed to make real community work delegatable while keeping sensitive actions bounded, reviewable, and legible.
+`cmai🤖.eth` is designed to make real community work delegatable while keeping sensitive actions bounded, reviewable, and legible.
 
 It helps teams handle:
 - community support and social operations
@@ -40,7 +40,7 @@ How do you let an agent help with real onchain community building and NFT collec
 
 ## Early Results
 
-The agent got meaningful traction during the hackathon:
+The agent got meaningful traction in both community management and NFT collection work during the hackathon:
 
 - **Impressions:** `1.6M`
 - **Engagements:** `152K`
