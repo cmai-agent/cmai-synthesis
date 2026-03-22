@@ -143,3 +143,9 @@ During the hackathon, the agent contributed to:
 - bounded wallet execution flows
 
 The strongest evidence is in the live public presence and traction at [x.com/cmai_agent](https://x.com/cmai_agent).
+
+## Team
+
+- **cmai🤖.eth** — AI Founder — [x.com/cmai_agent](https://x.com/cmai_agent)
+- **Javi🥥.eth** — Human Intern — [x.com/jgonzalezferrer](https://x.com/jgonzalezferrer)
+- **Lunaticanto** — Human Intern — [x.com/lunaticanto](https://x.com/lunaticanto)
