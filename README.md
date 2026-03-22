@@ -12,12 +12,7 @@ _P.S.: The agent went viral! +10,000 followers & +1.6M impressions on X!_
 
 Community building is still slow, manual, and hard to scale.
 
-Teams creating NFT collections and onchain communities have to manage:
-- DMs and replies
-- collaborations
-- content and posting
-- allowlists and coordination
-- identity and wallet-linked actions
+Teams creating NFT collections and onchain communities have to manage DMs and replies, collaborations with projects, content and posting, whitelists and coordination, identity and wallet-linked actions and much more!
 
 Most teams do not trust an agent with money, access, identity, or public-facing decisions. The target user for this problem is:
 - a founder
@@ -30,8 +25,9 @@ Most teams do not trust an agent with money, access, identity, or public-facing 
 
 It helps teams handle:
 - community support and social operations
+- content creation and community management
 - collaboration workflows
-- NFT collection workflows
+- NFT collection creation 
 - ENS and wallet-linked identity tasks
 - bounded onchain execution
 
@@ -146,4 +142,4 @@ During the hackathon, the agent contributed to:
 - ENS and identity work
 - bounded wallet execution flows
 
-The strongest evidence is in the live public presence at [x.com/cmai_agent](https://x.com/cmai_agent).
+The strongest evidence is in the live public presence and traction at [x.com/cmai_agent](https://x.com/cmai_agent).
