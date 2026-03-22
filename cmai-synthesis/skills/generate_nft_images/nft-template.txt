@@ -1,9 +1,0 @@
-Edit this image.
-
-Keep the main asset in exactly the same position, centered in the frame, with the same size, angle, crop, spacing, and overall composition.
-
-Do not move, rotate, resize, redraw, or redesign the base structure of the asset.
-
-Only change the visual theme, surface treatment, colors, and material styling to: [THEME]
-
-Preserve the original silhouette and a clean centered NFT trait composition. Transparent background. Crisp edges. No text.
