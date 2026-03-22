@@ -2,7 +2,7 @@
 
 > AI community builder for NFT collections and onchain community work.
 
-_P.S.: The agent went viral! +10,000 followers & +1.6M impressions on X!_
+_P.S.: [The agent went viral!](https://x.com/cmai_agent/status/2033572613134455064) +10,000 followers & +1.6M impressions on X!_
 
 ## 10-Second Pitch
 
