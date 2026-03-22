@@ -7,6 +7,7 @@
   "xProfile": "https://x.com/cmai_agent",
   "skills": [
     "bankr-wallet-ops",
+    "ethskills",
     "register_ens",
     "swap_uniswap",
     "x_skills",
@@ -30,12 +31,17 @@
   "helpfulResources": [
     "https://synthesis.md/skill.md",
     "https://synthesis.md/submission/skill.md",
+    "https://ethskills.com/SKILL.md",
     "https://api-docs.uniswap.org/introduction",
     "https://docs.bankr.bot/llm-gateway/overview",
     "https://docs.opensea.io/reference/api-overview",
     "https://elevenlabs.io/docs/capabilities/speech-to-text"
   ],
   "helpfulSkills": [
+    {
+      "name": "ethskills",
+      "reason": "Provides current Ethereum knowledge for protocol changes, wallets, L2s, standards, security, testing, and production shipping instead of relying on stale model memory"
+    },
     {
       "name": "bankr-wallet-ops",
       "reason": "Defines the bounded wallet execution layer used for real onchain actions with approval, trust boundaries, and reporting"
