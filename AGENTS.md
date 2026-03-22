@@ -91,6 +91,7 @@ Avoid destructive commands unless the user explicitly wants them.
 
 Current root-level skills in this workspace:
 - `bankr_wallet`
+- `ethskills`
 - `generate_nft_combinations`
 - `generate_nft_images`
 - `manage_collabs`
