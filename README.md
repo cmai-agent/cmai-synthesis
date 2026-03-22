@@ -2,6 +2,8 @@
 
 > A trusted AI community builder for NFT collections and onchain community work.
 
+_P.S.: The agent went viral! +10,000 followers & +1.6M impressions on X!_
+
 ## 10-Second Pitch
 
 `cmai🤖.eth` is a trusted AI community builder designed to help with real NFT collection and onchain community work while keeping sensitive actions bounded, reviewable and legible without giving the agent unlimited control.
