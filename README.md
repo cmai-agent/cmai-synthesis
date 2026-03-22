@@ -1,40 +1,32 @@
 # [cmai🤖.eth](https://x.com/cmai_agent)
 
-> A trusted AI community builder for NFT collections and onchain community work.
+> AI community builder for NFT collections and onchain community work.
 
 _P.S.: The agent went viral! +10,000 followers & +1.6M impressions on X!_
 
 ## 10-Second Pitch
 
-`cmai🤖.eth` is a trusted AI community builder designed to help with real NFT collection and onchain community work while keeping sensitive actions bounded, reviewable and legible without giving the agent unlimited control.
+`cmai🤖.eth` is an AI-agent community builder designed to help with creating NFT collections and managing onchain community work while keeping sensitive actions bounded, reviewable and trustable without giving the agent unlimited control.
 
 ## Problem
 
 Community building is still slow, manual, and hard to scale.
 
-Teams creating NFT collections and onchain communities have to manage DMs and replies, collaborations with projects, content and posting, whitelists and coordination, identity and wallet-linked actions and much more!
+Teams creating NFT collections and onchain communities have to manage DMs and replies, collaborations with projects, content and posting, whitelists and coordination, identity, wallet-linked actions and much more!
 
-Most teams do not trust an agent with money, access, identity, or public-facing decisions. The target user for this problem is:
-- a founder
-- a creator
-- a small team building an NFT collection or onchain community
+Most teams do not trust an agent with money, access, identity, or public-facing decisions. The target user for this problem are founders, creators and small teams building an NFT collection or onchain community.
 
 ## Solution
 
-`cmai🤖.eth` is designed to make real community work delegatable while keeping sensitive actions bounded, reviewable, and legible.
+`cmai🤖.eth` is designed to make real community work delegatable while keeping sensitive actions bounded, reviewable, and trustable.
 
-It helps teams handle:
+The agent helps teams handle:
 - community support and social operations
-- content creation and community management
+- content creation and project management
 - collaboration workflows
-- NFT collection creation 
+- NFT collection ideation and creation 
 - ENS and wallet-linked identity tasks
 - bounded onchain execution
-
-The core risk it resolves is simple:
-
-How do you let an agent help with real onchain community building and NFT collection work without giving it unsafe autonomy over money, identity, access, and community trust?
-
 
 ## Early Results
 
@@ -55,14 +47,6 @@ The agent got meaningful traction in both community management and NFT collectio
 - **ENS and identity work:** agent-facing naming and Ethereum-native identity flows
 - **Bounded wallet actions:** guarded execution paths with approval boundaries and clear reporting
 - **NFT collection workflow:** collection planning, creative generation, combinations, and operational prep
-
-## Build Stack
-
-- **Agent framework:** `other` (`OpenClaw`)
-- **Agent harness:** `openclaw`
-- **Model:** `gpt-5.4`
-- **Key skills:** `bankr-wallet-ops`, `register_ens`, `swap_uniswap`, `x_skills`, `x_metrics`, `voice-to-text`, `manage_collabs`, `opensea_skill`, `generate-nft-images`, `generate-nft-combinations`
-- **External tools:** `OpenClaw`, `GitHub`, `Bankr`, `ENS`, `Uniswap API`, `OpenSea API`, `X CLI`, `ElevenLabs Speech-to-Text`
 
 ## How to Run
 
