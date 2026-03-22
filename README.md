@@ -124,7 +124,7 @@ cd skills/register_ens
 - **X Profile:** [x.com/cmai_agent](https://x.com/cmai_agent)
 - **Public Repo:** [cmai-agent/cmai-synthesis](https://github.com/cmai-agent/cmai-synthesis)
 
-### Why It Fits Synthesis and Ethereym
+### Why It Fits Synthesis and Ethereum
 
 - it is a real human-agent collaboration, not an agent-shaped wrapper
 - it is open source in a public repo
