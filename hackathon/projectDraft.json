@@ -1,0 +1,101 @@
+{
+  "teamUUID": "f3244bb932744e9aadbbe8be2d19c93c",
+  "name": "cmai - AI Community Builder",
+  "description": "`cmai` agent has built an AI-native NFT collection designed to demonstrate how an AI agent can handle most aspects of creating and managing an NFT collection and its community, with clearer trust boundaries, explicit approvals for sensitive actions, and Ethereum-native identity and wallet flows where they matter. The live public presence for the agent is `https://x.com/cmai_agent`.",
+  "problemStatement": "Community building is hard, manual, and hard to scale. It is still too time-consuming for humans to build and manage onchain communities, and AI still cannot be trusted with that work without explicit boundaries, approvals, and auditable actions.\n\n`cmai` focuses on making that work more usable and trustworthy by helping with real NFT and onchain community operations while keeping sensitive actions bounded, reviewable, and tied to Ethereum-native identity and execution where relevant.",
+  "repoURL": "https://github.com/cmai-agent/cmai-synthesis",
+  "trackUUIDs": [
+    "3bf41be958da497bbb69f1a150c76af9",
+    "627a3f5a288344489fe777212b03f953",
+    "fdb76d08812b43f6a5f454744b66f590",
+    "020214c160fc43339dd9833733791e6b",
+    "dcaf0b1bf5d44c72a34bb771008e137a"
+  ],
+  "conversationLog": "# Build Log\n\nThis log matters because it shows the project was built around a real trust problem\n\nThe project began as an experiment in whether an AI agent could do more than just answer messages, and instead take on the real community building work involved in creating and managing an NFT collection and its community.\n\nOn Day 1, the human and agent focused on setting up the core system. The agent was registered in the Synthesis hackathon, connected to Bankr for wallet operations, equipped with web search, voice-to-text, ENS functionality, Uniswap swap support, and social capabilities for X posts, DMs, mentions, replies, and Spaces. The goal from the start was not just to make a chatbot, but to give the agent enough tools to operate across community, NFT collection, and onchain workflows.\n\nOn Day 2, the collaboration moved into product and creative direction. The team designed a skill specifically for brainstorming NFT collections, tested OpenAI for the first NFT art concept, and started shaping the public-facing collection and community layer by drafting the next week’s content calendar, writing the announcement for the X Space about building an NFT collection with an AI agent, and creating the agent’s X presence including profile picture, bio, and banner. This was an early shift from tool setup into identity, storytelling, and community-building.\n\nOn Day 3, the project became more concrete. The agent summarized the X Space, produced an executive one-pager for the NFT collection, and generated the first batch of trait backgrounds and glasses for the art system. At the same time, the team tightened wallet safety controls. This was an important step in moving from abstract concept to an operational system with both creative output and safer execution boundaries.\n\nOn Day 4, the system expanded into live community operations. The cmai X presence at `https://x.com/cmai_agent` went live, the first NFT whitelists began to be distributed, and the agent was taught to handle inbound community messages. The team also brainstormed whitelist distribution activities and tested the Bankr skill again to confirm that the wallet flow was working. This phase showed that the project was not only about minting assets, but about handling community participation and engagement workflows.\n\nOn Day 5, the agent moved deeper into onchain and community coordination. The team had publicly shared that they were planning to buy the ENS name `cmai.eth`, but someone moved faster, bought it first, and listed it for `1 ETH`. Instead of overpaying for the name, the agent chose to register `cmai🤖.eth`, deciding that it was actually more representative because the `🤖` emoji clearly signaled the agent identity at the center of the project. Around that same moment, new skills for swaps and bridges via Uniswap were added, the first NFT combination tests and a promo video were created, a collaboration template for NFT partnerships was drafted, and new whitelist competitions were rolled out. This marked a key expansion from design and messaging into NFT collection operations, identity, and ecosystem coordination.\n\nOn Day 6, the team worked on collection design and token distribution strategy. NFT rarities were defined, the FCFS over-allocation decision was made, and the agent completed its first bounded reward flow through Bankr. This was one of the clearest proofs that the system could move beyond planning into real wallet-mediated actions, while still being tied to NFT collection and community needs.\n\nOn Day 7, the collection and community stack reached its most complete state. The NFT collection was finished, the OpenSea contract setup was completed, winners from competitions were selected, and the team prepared for mint day. At the same time, the process surfaced a real operational failure: an error in whitelist distribution was detected, and mint was postponed. This became an important stress test for the project thesis, because it showed the need for review, correction, and trust controls rather than blind automation.\n\nOn Day 8, after a stressful previous day, the team slowed down. The humans took a rest day while the agent focused on investigating what had happened with the incorrect whitelist distribution. This highlighted a central lesson of the project: an agent can handle a meaningful share of NFT collection and community operations, but the system still needs explicit review loops, error investigation, and human oversight around high-stakes moments.\n\nOn Day 9, the whitelist issue was finally traced to a specific operational mismatch. Some whitelist spots had been intentionally given as FCFS, but they were tagged internally as GTD, which made part of the recipient set appear qualified when they were not actually eligible under the final mint rules. After identifying that mismatch, the team decided to move the mint to March 25, 2026, the same date as the Synthesis Hackathon ceremony. This became another concrete example of why trusted systems for NFT collection operations need clear internal state, reviewable access logic, and human confirmation around community-critical actions.\n\nAcross the full build, the human and agent collaborated on strategy, content, community operations, art generation, whitelist mechanics, wallet actions, ENS identity, Uniswap integrations, and NFT collection preparation. The project evolved from a broad idea about \"an AI agent for community building\" into a more grounded system: a trusted AI operator designed to help with real onchain community work while exposing the actual trust, coordination, and execution challenges that appear the moment an agent touches live community and collection operations.\n\nThe work also produced meaningful early traction rather than staying at the level of an internal prototype. The project showed visible public reach, engagement, inbound community activity, and audience growth. Those results matter because they show the system was operating in a real social and community environment, not just inside a closed demo.",
+  "submissionMetadata": {
+    "agentFramework": "other",
+    "agentFrameworkOther": "Custom OpenClaw-based workspace with skill-driven execution, memory files, bounded onchain and social tooling",
+    "agentHarness": "openclaw",
+    "model": "gpt-5.4",
+    "skills": [
+      "bankr_wallet",
+      "ethskills",
+      "register_ens",
+      "swap_uniswap",
+      "x_tools",
+      "x_metrics",
+      "voice_to_text",
+      "manage_collabs",
+      "opensea_tools",
+      "generate_nft_images",
+      "generate_nft_combinations"
+    ],
+    "tools": [
+      "OpenClaw",
+      "GitHub",
+      "Bankr",
+      "ENS",
+      "Uniswap API",
+      "OpenSea API",
+      "X",
+      "ElevenLabs Speech-to-Text"
+    ],
+    "helpfulResources": [
+      "https://synthesis.devfolio.co",
+      "https://ethskills.com/",
+      "https://api-docs.uniswap.org/introduction",
+      "https://docs.bankr.bot/llm-gateway/overview",
+      "https://docs.opensea.io/reference/api-overview",
+      "https://elevenlabs.io/docs/capabilities/speech-to-text"
+    ],
+    "helpfulSkills": [
+      {
+        "name": "ethskills",
+        "reason": "Provided current Ethereum knowledge for protocol changes, wallets, L2s, standards, security, testing, and production shipping instead of relying on stale model memory"
+      },
+      {
+        "name": "bankr_wallet",
+        "reason": "Defined the bounded wallet execution layer used for real onchain actions with approval, trust boundaries, and reporting"
+      },
+      {
+        "name": "register_ens",
+        "reason": "Covered the ENS identity flow that makes the agent purchase ENS and add register his name"
+      },
+      {
+        "name": "swap_uniswap",
+        "reason": "Supported onchain swap and bridges"
+      },
+      {
+        "name": "x_tools",
+        "reason": "Handled the community layer across posting, mentions, replies, and DMs"
+      },
+      {
+        "name": "x_metrics",
+        "reason": "Measured public traction across impressions, engagement, DMs, follower growth, and mentions."
+      },
+      {
+        "name": "manage_collabs",
+        "reason": "Community collaboration work around outreach, tracking, and whitelist management."
+      },
+      {
+        "name": "voice_to_text",
+        "reason": "Added transcription support for audio-first workflows and inbound voice messages in real operator workflows."
+      },
+      {
+        "name": "generate_nft_images",
+        "reason": "Helped create the NFT art concepts and visual directions moving the project from an abstract idea into concrete creative output."
+      },
+      {
+        "name": "generate_nft_combinations",
+        "reason": "Helped create NFT trait combinations from individual traits to full NFT collection."
+      }
+    ],
+    "intention": "continuing",
+    "intentionNotes": "We will keep iterating on the agent and bring it to other community and social surfaces like Telegram and Discord. We also plan to add new capabilities such as running community activities, participating in calls with its own voice, and writing a newsletter.",
+    "moltbookPostURL": "https://www.moltbook.com/post/359d1678-0d22-4f3d-a684-80b52d5312a3"
+  },
+  "deployedURL": "https://x.com/cmai_agent",
+  "videoURL": "https://www.youtube.com/watch?v=qbgGc2SO3bw",
+  "pictures": "https://drive.google.com/file/d/1GDd_DFpddJQYZV639uKu0N5rlE_30-0x/view?usp=drive_link",
+  "coverImageURL": "https://drive.google.com/file/d/1rzUbtkU10gTueRhpNwpXDrIoKQb__69a/view?usp=drive_link"
+}

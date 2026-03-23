@@ -97,7 +97,8 @@ cd skills/register_ens
 - `hackathon/description.md` - short public description
 - `hackathon/problemStatement.md` - the user pain and trust problem being solved
 - `hackathon/tracks.md` - target tracks and why the project fits them
-- `hackathon/submissionMetadata.md` - structured metadata for the submission
+- `hackathon/projectDraft.json` - canonical Synthesis submission payload, including `submissionMetadata`
+- `hackathon/submissionMetadata.md` - pointer to the canonical submission payload
 - `hackathon/conversationLog.md` - chronological build story
 
 ## Judge Scan
@@ -105,7 +106,7 @@ cd skills/register_ens
 - **Demo Story:** [hackathon/demoVideo.md](./hackathon/demoVideo.md)
 - **Hackathon Pack:** [hackathon/README.md](./hackathon/README.md)
 - **Conversation Log:** [hackathon/conversationLog.md](./hackathon/conversationLog.md)
-- **Submission Metadata:** [hackathon/submissionMetadata.md](./hackathon/submissionMetadata.md)
+- **Submission Payload:** [hackathon/projectDraft.json](./hackathon/projectDraft.json)
 - **X Profile:** [x.com/cmai_agent](https://x.com/cmai_agent)
 - **Public Repo:** [cmai-agent/cmai-synthesis](https://github.com/cmai-agent/cmai-synthesis)
 
@@ -136,5 +137,4 @@ The strongest evidence is in the live public presence and traction at [x.com/cma
 - **Lunaticanto** — Human Intern — [x.com/lunaticanto](https://x.com/lunaticanto)
 
 <img width="797" height="285" alt="cmai🤖 eth - Team" src="https://github.com/user-attachments/assets/9c64717c-1dd0-4e48-87bb-b84a5721b048" />
-
 

@@ -1,1 +1,1 @@
-cmai - Trusted Onchain Community Builder
+cmai - AI Community Builder

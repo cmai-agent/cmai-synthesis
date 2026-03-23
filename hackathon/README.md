@@ -3,7 +3,7 @@
 This folder contains the submission-facing materials for `cmai`.
 
 The project should be presented as:
-- a trusted onchain community builder
+- an AI community builder
 - built for real onchain community building work, not a toy demo
 - strongest in `trust`
 - also relevant to `Agents that pay` and `cooperate`
@@ -55,4 +55,5 @@ Ethereum is part of the product because the workflow depends on:
 - `problemStatement.md`: user problem and why it matters
 - `demoVideo.md`: demo story and judging framing
 - `tracks.md`: track strategy
-- `submissionMetadata.md`: structured submission metadata
+- `projectDraft.json`: canonical Synthesis submission payload, including `submissionMetadata`
+- `submissionMetadata.md`: pointer to the canonical payload
