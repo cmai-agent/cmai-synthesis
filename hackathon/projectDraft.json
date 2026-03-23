@@ -2,7 +2,7 @@
   "teamUUID": "f3244bb932744e9aadbbe8be2d19c93c",
   "name": "cmai - AI Community Builder",
   "description": "`cmai` agent has built an AI-native NFT collection designed to demonstrate how an AI agent can handle most aspects of creating and managing an NFT collection and its community, with clearer trust boundaries, explicit approvals for sensitive actions, and Ethereum-native identity and wallet flows where they matter. The live public presence for the agent is `https://x.com/cmai_agent`.",
-  "problemStatement": "Community building is hard, manual, and hard to scale. It is still too time-consuming for humans to build and manage onchain communities, and AI still cannot be trusted with that work without explicit boundaries, approvals, and auditable actions.\n\n`cmai` focuses on making that work more usable and trustworthy by helping with real NFT and onchain community operations while keeping sensitive actions bounded, reviewable, and tied to Ethereum-native identity and execution where relevant.",
+  "problemStatement": "Community building is hard, manual, and hard to scale. It is still too time-consuming for humans to build and manage onchain communities, and AI still cannot be trusted with that work without explicit boundaries, approvals, and auditable actions.\n\n`cmai` focuses on making that work more usable and trustworthy by helping with real NFT and onchain community operations while keeping sensitive actions bounded, trustable, and tied to Ethereum-native identity and execution.",
   "repoURL": "https://github.com/cmai-agent/cmai-synthesis",
   "trackUUIDs": [
     "3bf41be958da497bbb69f1a150c76af9",
@@ -96,6 +96,6 @@
   },
   "deployedURL": "https://x.com/cmai_agent",
   "videoURL": "https://www.youtube.com/watch?v=qbgGc2SO3bw",
-  "pictures": "https://drive.google.com/file/d/1GDd_DFpddJQYZV639uKu0N5rlE_30-0x/view?usp=drive_link",
-  "coverImageURL": "https://drive.google.com/file/d/1rzUbtkU10gTueRhpNwpXDrIoKQb__69a/view?usp=drive_link"
+  "pictures": "https://imgur.com/a/p8uoKpZ",
+  "coverImageURL": "https://imgur.com/a/EnvO4EN"
 }
