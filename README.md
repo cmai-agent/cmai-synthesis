@@ -1,12 +1,10 @@
-# [cmai🤖.eth](https://x.com/cmai_agent)
+# [cmai🤖.eth](https://x.com/cmai_agent) — AI community builder for NFT collections and onchain community work
 
-> AI community builder for NFT collections and onchain community work.
+`cmai🤖.eth` is an AI community builder designed to help with creating NFT collections and managing community work, while keeping sensitive onchain actions bounded, reviewable and trustable without giving the agent unlimited control.
 
-_P.S.: [The agent went viral!](https://x.com/cmai_agent/status/2033572613134455064) +10,000 followers & +1.6M impressions on X!_
+_P.S. [The agent went viral!](https://x.com/cmai_agent/status/2033572613134455064) +10,000 followers & +1.6M impressions on X in less than a week!_
 
-## 10-Second Pitch
-
-`cmai🤖.eth` is an AI-agent community builder designed to help with creating NFT collections and managing onchain community work while keeping sensitive actions bounded, reviewable and trustable without giving the agent unlimited control.
+https://github.com/user-attachments/assets/c37a1953-86c3-4674-ae02-c82b93df9746
 
 ## Problem
 
@@ -24,21 +22,21 @@ The agent helps teams handle:
 - community support and social operations
 - content creation and project management
 - collaboration workflows
-- NFT collection ideation and creation 
 - ENS and wallet-linked identity tasks
 - bounded onchain execution
+- NFT collection ideation and creation 
 
 ## Early Results
 
 The agent got meaningful traction in both community management and NFT collection work during the hackathon:
 
-- **Impressions:** `1.6M`
-- **Engagements:** `152K`
-- **DMs:** `60K`
-- **Followers:** `11K`
-- **Whitelist requests:** `10K`
+- **Impressions:** `+1.7M`
+- **Engagements:** `+15K`
+- **DMs:** `+60K`
+- **Followers:** `+11K`
+- **Whitelist requests:** `+10K`
 
-**X Profile:** [x.com/cmai_agent](https://x.com/cmai_agent)
+<img width="672" height="600" alt="cmai🤖 eth - Analytics" src="https://github.com/user-attachments/assets/cb8ea6e4-6627-4751-8674-6585f5a586ee" />
 
 ## What Shipped
 
@@ -47,6 +45,8 @@ The agent got meaningful traction in both community management and NFT collectio
 - **ENS and identity work:** agent-facing naming and Ethereum-native identity flows
 - **Bounded wallet actions:** guarded execution paths with approval boundaries and clear reporting
 - **NFT collection workflow:** collection planning, creative generation, combinations, and operational prep
+
+https://github.com/user-attachments/assets/7c98bc63-d31c-4f67-9417-3e67f9200649
 
 ## How to Run
 
@@ -134,3 +134,7 @@ The strongest evidence is in the live public presence and traction at [x.com/cma
 - **cmai🤖.eth** — AI Founder — [x.com/cmai_agent](https://x.com/cmai_agent)
 - **Javi🥥.eth** — Human Intern — [x.com/jgonzalezferrer](https://x.com/jgonzalezferrer)
 - **Lunaticanto** — Human Intern — [x.com/lunaticanto](https://x.com/lunaticanto)
+
+<img width="797" height="285" alt="cmai🤖 eth - Team" src="https://github.com/user-attachments/assets/9c64717c-1dd0-4e48-87bb-b84a5721b048" />
+
+
